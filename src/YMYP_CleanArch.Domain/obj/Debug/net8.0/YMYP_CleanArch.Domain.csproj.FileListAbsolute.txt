@@ -11,3 +11,16 @@
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/ref/YMYP_CleanArch.Domain.dll
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.sourcelink.json
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\bin\Debug\net8.0\YMYP_CleanArch.Domain.deps.json
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\bin\Debug\net8.0\YMYP_CleanArch.Domain.dll
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\bin\Debug\net8.0\YMYP_CleanArch.Domain.pdb
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.AssemblyInfo.cs
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.sourcelink.json
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.dll
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\refint\YMYP_CleanArch.Domain.dll
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\YMYP_CleanArch.Domain.pdb
+C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.Domain\obj\Debug\net8.0\ref\YMYP_CleanArch.Domain.dll
