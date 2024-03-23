@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YMYP_CleanArch.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1d17894277e1f7d7302a8cd7b44743356417d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("YMYP_CleanArch.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YMYP_CleanArch.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
