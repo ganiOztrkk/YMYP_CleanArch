@@ -1,0 +1,12 @@
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/bin/Debug/net8.0/YMYP_CleanArch.Domain.deps.json
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/bin/Debug/net8.0/YMYP_CleanArch.Domain.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/bin/Debug/net8.0/YMYP_CleanArch.Domain.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.csproj.AssemblyReference.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.AssemblyInfo.cs
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/refint/YMYP_CleanArch.Domain.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/YMYP_CleanArch.Domain.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/Debug/net8.0/ref/YMYP_CleanArch.Domain.dll

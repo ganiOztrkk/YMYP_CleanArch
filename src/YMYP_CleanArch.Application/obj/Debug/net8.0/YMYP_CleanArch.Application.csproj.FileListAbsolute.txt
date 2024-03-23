@@ -1,0 +1,17 @@
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Application.deps.json
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Application.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Application.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Domain.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Infrastructure.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Infrastructure.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/bin/Debug/net8.0/YMYP_CleanArch.Domain.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.csproj.AssemblyReference.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.AssemblyInfoInputs.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.AssemblyInfo.cs
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.csproj.CoreCompileInputs.cache
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.csproj.CopyComplete
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/refint/YMYP_CleanArch.Application.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/ref/YMYP_CleanArch.Application.dll
