@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "19bnrBHQ0h1Z3gxjbVryLCKtkK9hN1Zq4pPqQlZtzRAwf82xW1NIrT7IZ6SWAhBsml9TfTl/omo0sVK9QH5kVg==",
+  "dgSpecHash": "KZjAnSqPzEsGzJGU03IU1z9TOxUw5kE9Y8xWcZ1/693nQv2kd7lznYjKC6I6z+f7Dz6fUyNGFnx/VBsF5RwtkA==",
   "success": true,
   "projectFilePath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/YMYP_CleanArch.Application.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/Users/gani/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "/Users/gani/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.0/microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.0/microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.entityframeworkcore.sqlserver/8.0.0/microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
     "/Users/gani/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
