@@ -211,14 +211,14 @@
         }
       }
     },
-    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/YMYP_CleanArch.Presentation.csproj": {
+    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/YMYP_CleanArch.Presentation.csproj",
-        "projectName": "YMYP_CleanArch.Presentation",
-        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/YMYP_CleanArch.Presentation.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj",
+        "projectName": "YMYP_CleanArch.WebApi",
+        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj",
         "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/obj/",
+        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gani/.nuget/NuGet/NuGet.Config"
@@ -249,76 +249,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj",
-        "projectName": "YMYP_CleanArch.WebApi",
-        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/YMYP_CleanArch.WebApi.csproj",
-        "packagesPath": "/Users/gani/.nuget/packages/",
-        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/gani/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/YMYP_CleanArch.Presentation.csproj": {
-                "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Presentation/YMYP_CleanArch.Presentation.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
             },
