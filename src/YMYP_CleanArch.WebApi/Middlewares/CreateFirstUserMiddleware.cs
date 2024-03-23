@@ -10,6 +10,18 @@ public static class CreateFirstUserMiddleware
     {
         using var scoped = app.Services.CreateScope();
         var userManager = scoped.ServiceProvider.GetRequiredService<UserManager<AppUser>>();
-        var context = scoped.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+        
+        if (!userManager.Users.Any(x => x.UserName == "admin"))
+        {
+            var user = new AppUser()
+            {
+                UserName = "admin",
+                Email = "admin@gmail.com",
+                EmailConfirmed = true,
+                Name = "admin",
+                LastName = "admin",
+            };
+            userManager.CreateAsync(user, "1").Wait();
+        }
     }
 }

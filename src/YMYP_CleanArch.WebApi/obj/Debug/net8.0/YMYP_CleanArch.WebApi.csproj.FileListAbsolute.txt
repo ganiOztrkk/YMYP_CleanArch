@@ -265,3 +265,4 @@
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Application.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Domain.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Infrastructure.pdb
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
