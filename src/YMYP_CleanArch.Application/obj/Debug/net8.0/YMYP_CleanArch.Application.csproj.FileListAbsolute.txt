@@ -15,3 +15,4 @@
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/refint/YMYP_CleanArch.Application.dll
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/ref/YMYP_CleanArch.Application.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/Debug/net8.0/YMYP_CleanArch.Application.sourcelink.json

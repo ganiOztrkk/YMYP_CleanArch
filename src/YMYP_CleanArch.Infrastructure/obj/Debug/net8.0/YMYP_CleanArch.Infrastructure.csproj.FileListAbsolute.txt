@@ -15,3 +15,4 @@
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/obj/Debug/net8.0/YMYP_CleanArch.Infrastructure.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/obj/Debug/net8.0/YMYP_CleanArch.Infrastructure.genruntimeconfig.cache
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/obj/Debug/net8.0/ref/YMYP_CleanArch.Infrastructure.dll
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/obj/Debug/net8.0/YMYP_CleanArch.Infrastructure.sourcelink.json
