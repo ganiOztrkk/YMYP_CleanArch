@@ -10,4 +10,8 @@
       <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="obj\Debug\net8.0\YMYP_CleanArch.Domain.csproj.AssemblyReference.cache" />
+    </ItemGroup>
+
 </Project>

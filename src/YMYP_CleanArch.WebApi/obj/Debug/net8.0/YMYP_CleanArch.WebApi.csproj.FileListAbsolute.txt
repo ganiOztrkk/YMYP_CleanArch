@@ -265,6 +265,7 @@
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Application.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Domain.pdb
 /Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/YMYP_CleanArch.Infrastructure.pdb
+<<<<<<< HEAD
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\bin\Debug\net8.0\appsettings.json
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\bin\Debug\net8.0\YMYP_CleanArch.WebApi.exe
@@ -532,3 +533,6 @@ C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\obj\Debug\net8.0\refint\Y
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\obj\Debug\net8.0\YMYP_CleanArch.WebApi.pdb
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\obj\Debug\net8.0\YMYP_CleanArch.WebApi.genruntimeconfig.cache
 C:\Users\asus\Desktop\deneme\src\YMYP_CleanArch.WebApi\obj\Debug\net8.0\ref\YMYP_CleanArch.WebApi.dll
+=======
+/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.WebApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+>>>>>>> gani

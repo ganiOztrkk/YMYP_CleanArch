@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Application\\YMYP_CleanArch.Application.csproj": {}
+    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/YMYP_CleanArch.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Application\\YMYP_CleanArch.Application.csproj": {
+    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/YMYP_CleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Application\\YMYP_CleanArch.Application.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/YMYP_CleanArch.Application.csproj",
         "projectName": "YMYP_CleanArch.Application",
-        "projectPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Application\\YMYP_CleanArch.Application.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Application\\obj\\",
+        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/YMYP_CleanArch.Application.csproj",
+        "packagesPath": "/Users/gani/.nuget/packages/",
+        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\YMYP_CleanArch.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\YMYP_CleanArch.Infrastructure.csproj"
+              "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/YMYP_CleanArch.Infrastructure.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/YMYP_CleanArch.Infrastructure.csproj"
               }
             }
           }
@@ -38,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,28 +75,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\YMYP_CleanArch.Domain.csproj": {
+    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/YMYP_CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\YMYP_CleanArch.Domain.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/YMYP_CleanArch.Domain.csproj",
         "projectName": "YMYP_CleanArch.Domain",
-        "projectPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\YMYP_CleanArch.Domain.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\obj\\",
+        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/YMYP_CleanArch.Domain.csproj",
+        "packagesPath": "/Users/gani/.nuget/packages/",
+        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -116,11 +107,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -148,36 +134,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\YMYP_CleanArch.Infrastructure.csproj": {
+    "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/YMYP_CleanArch.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\YMYP_CleanArch.Infrastructure.csproj",
+        "projectUniqueName": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/YMYP_CleanArch.Infrastructure.csproj",
         "projectName": "YMYP_CleanArch.Infrastructure",
-        "projectPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\YMYP_CleanArch.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Infrastructure\\obj\\",
+        "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/YMYP_CleanArch.Infrastructure.csproj",
+        "packagesPath": "/Users/gani/.nuget/packages/",
+        "outputPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\YMYP_CleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\asus\\Desktop\\deneme\\src\\YMYP_CleanArch.Domain\\YMYP_CleanArch.Domain.csproj"
+              "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/YMYP_CleanArch.Domain.csproj": {
+                "projectPath": "/Users/gani/Desktop/Github/YMYP_CleanArch/src/YMYP_CleanArch.Domain/YMYP_CleanArch.Domain.csproj"
               }
             }
           }
@@ -186,11 +170,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -232,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
