@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/YMYP_CleanArch.WebApi.props" />
-</Project>
