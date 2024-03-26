@@ -1,16 +1,12 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Identity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
+using YMYP_CleanArch.Domain.Abstracts;
 using YMYP_CleanArch.Domain.Entities;
 
 namespace YMYP_CleanArch.Application.Features.Auth.Login;
 internal sealed class LoginCommandHandler(
-    UserManager<AppUser> userManager) : IRequestHandler<LoginCommandRequest, LoginCommandResponse>
+    UserManager<AppUser> userManager,
+    IJwtProvider jwtProvider) : IRequestHandler<LoginCommandRequest, LoginCommandResponse>
 {
     public async Task<LoginCommandResponse> Handle(LoginCommandRequest request, CancellationToken cancellationToken)
     {
@@ -28,9 +24,11 @@ internal sealed class LoginCommandHandler(
             throw new ArgumentException("Şifre hatalı!");
         }
 
+        var token = await jwtProvider.CreateTokenAsync(appUser);
+        
         return new LoginCommandResponse
         {
-            Token="token",
+            Token=token,
             Message="Kullanıcı Girişi Başarılı"
         };
     }
