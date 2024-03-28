@@ -5,9 +5,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using YMYP_CleanArch.Domain.Abstracts;
 using YMYP_CleanArch.Domain.Entities;
 using YMYP_CleanArch.Domain.Options;
 using YMYP_CleanArch.Infrastructure.Context;
+using YMYP_CleanArch.Infrastructure.Services;
 
 namespace YMYP_CleanArch.Infrastructure;
 
@@ -43,6 +45,7 @@ public static class DependencyInjection
                 };
             });
         
+        services.AddScoped<IJwtProvider, JwtProvider>();
         services.AddIdentity<AppUser, IdentityRole<Guid>>(opt =>
             {
                 opt.Password.RequireUppercase = false;
